@@ -27,7 +27,9 @@ It was produced with the following
 
 ## 💻 Project
 
-Focus Timer with the possibility of adjusting the time. The timer will have the option to select the desired sound, as well as its volume. Functions like volume control and dark-mode are included in it. As the project gives us the freedom to add something else to the project, I decided to make the project inspired by the album "Bonda 3" by the artist MC VV, you will be able to find these references during the project cards.
+This challenge is exclusive to challenges 9 and 10 available in the course, in Stage 05 - Advancing WEB Programming with JavaScript.
+
+In it we must create a Focus Timer with the possibility of adjusting the time. The timer will have the option to select what you want, as well as its volume. Functions like volume control and dark mode are included in it. As part of my free creation I added responsiveness, as well as inserting custom backgrounds and individual volume sliders for each button. The JavaScript was all separated into individual files, creating an additional challenge. The page in desktop format is seen in the image below:
 
 ## 🔖 Project Layout
 
