@@ -61,5 +61,5 @@ https://www.figma.com/file/XZEf8MX7lyyvqwa5fRdn5a/Stage-05---Dark-Mode-FocusTime
 <br>
 
 ## Website
-https://mvrilonascimento.github.io/FocusTimer-PomodoroStyle/
+https://mvrilonascimento.github.io/FocusTimer-PomodoroStyleCV/
 ---
